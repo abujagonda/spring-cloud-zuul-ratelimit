@@ -72,7 +72,7 @@
             <artifactId>bucket4j-hazelcast</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>3.1.1</version>
+            <version>6.3.0</version>
         </dependency>
 
 
@@ -81,7 +81,7 @@
             <artifactId>bucket4j-ignite</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>3.1.1</version>
+            <version>6.2.0</version>
         </dependency>
 
         <dependency>
@@ -121,7 +121,7 @@
             <artifactId>infinispan-core</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>9.2.1.Final</version>
+            <version>9.4.1.Final</version>
         </dependency>
 
         <dependency>
