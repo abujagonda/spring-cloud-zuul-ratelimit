@@ -105,7 +105,7 @@
             <artifactId>hazelcast</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>3.9.3</version>
+            <version>3.12.13</version>
         </dependency>
 
         <dependency>
