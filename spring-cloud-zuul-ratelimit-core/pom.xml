@@ -72,7 +72,7 @@
             <artifactId>bucket4j-hazelcast</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>3.1.1</version>
+            <version>7.6.1</version>
         </dependency>
 
 
@@ -81,7 +81,7 @@
             <artifactId>bucket4j-ignite</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>3.1.1</version>
+            <version>7.6.1</version>
         </dependency>
 
         <dependency>
