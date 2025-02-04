@@ -121,7 +121,7 @@
             <artifactId>infinispan-core</artifactId>
             <scope>provided</scope>
             <optional>true</optional>
-            <version>9.2.1.Final</version>
+            <version>14.0.34.Final</version>
         </dependency>
 
         <dependency>
